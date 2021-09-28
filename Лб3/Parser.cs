@@ -12,6 +12,7 @@ namespace Лб3
         private char operat;
 
         private bool stop = false;
+        private int countOperat = 0;
 
         private void Input()
         {
@@ -21,6 +22,14 @@ namespace Лб3
                 .Replace(",", ".")
                 .Replace("=", "");
             arrInput = input.ToCharArray();
+
+            foreach (var t in arrInput)
+            {
+                if (t == '-' || t == '+' || t == '*' || t == '/')
+                {
+                    countOperat++;
+                }
+            }
         }
         private static decimal ParseDecimal(string s)
         {
@@ -187,6 +196,11 @@ namespace Лб3
         public void GetResult()
         {
             decimal result;
+            if (countOperat > 1)
+            {
+                Console.WriteLine("Більше одного знака дії.");
+                stop = true;
+            }
 
             if (stop == false)
             {
