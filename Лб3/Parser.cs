@@ -92,11 +92,11 @@ namespace Лб3
         private void ParseRightOperand()
         {
             string secondOperand = "";
+            bool o = false;
             if (OperatorFind() == false)  // если знак операции еще не введен
             {
                 Input();
                 OperatorFind();
-                bool o = false;
                 for (int i = 0; i < arrInput.Length; i++)
                 {
                     if (arrInput[i] == operat)
@@ -129,7 +129,6 @@ namespace Лб3
             }
             else if (OperatorFind() == true)
             {
-                bool o = false;
                 for (int i = 0; i < arrInput.Length; i++)
                 {
                     if (arrInput[i] == operat)
