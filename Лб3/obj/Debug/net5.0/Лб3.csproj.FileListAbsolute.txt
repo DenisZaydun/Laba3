@@ -1,0 +1,16 @@
+E:\My_Projects\c#\2 курс\Лб3\Лб3\bin\Debug\net5.0\Лб3.exe
+E:\My_Projects\c#\2 курс\Лб3\Лб3\bin\Debug\net5.0\Лб3.deps.json
+E:\My_Projects\c#\2 курс\Лб3\Лб3\bin\Debug\net5.0\Лб3.runtimeconfig.json
+E:\My_Projects\c#\2 курс\Лб3\Лб3\bin\Debug\net5.0\Лб3.runtimeconfig.dev.json
+E:\My_Projects\c#\2 курс\Лб3\Лб3\bin\Debug\net5.0\Лб3.dll
+E:\My_Projects\c#\2 курс\Лб3\Лб3\bin\Debug\net5.0\ref\Лб3.dll
+E:\My_Projects\c#\2 курс\Лб3\Лб3\bin\Debug\net5.0\Лб3.pdb
+E:\My_Projects\c#\2 курс\Лб3\Лб3\obj\Debug\net5.0\Лб3.csproj.AssemblyReference.cache
+E:\My_Projects\c#\2 курс\Лб3\Лб3\obj\Debug\net5.0\Лб3.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Projects\c#\2 курс\Лб3\Лб3\obj\Debug\net5.0\Лб3.AssemblyInfoInputs.cache
+E:\My_Projects\c#\2 курс\Лб3\Лб3\obj\Debug\net5.0\Лб3.AssemblyInfo.cs
+E:\My_Projects\c#\2 курс\Лб3\Лб3\obj\Debug\net5.0\Лб3.csproj.CoreCompileInputs.cache
+E:\My_Projects\c#\2 курс\Лб3\Лб3\obj\Debug\net5.0\Лб3.dll
+E:\My_Projects\c#\2 курс\Лб3\Лб3\obj\Debug\net5.0\ref\Лб3.dll
+E:\My_Projects\c#\2 курс\Лб3\Лб3\obj\Debug\net5.0\Лб3.pdb
+E:\My_Projects\c#\2 курс\Лб3\Лб3\obj\Debug\net5.0\Лб3.genruntimeconfig.cache
